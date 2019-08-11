@@ -5,7 +5,7 @@ a terminal based functional text editor using gap data structure
 ## abstract
 This editor has a buffer made of gap data structure, only reason of choosing the gap data structure was that it made insertion and deletion easier compared to other data structures.
 
-### features
+## features
 
 ##### Movement of cursor(Up, Down, Left, Right) and insertion at any position 
 ##### Standard operations using Backspace, Space, Tab, Enter. 
