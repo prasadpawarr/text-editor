@@ -1,0 +1,17 @@
+Hello !
+This is a terminal based text editor with the following functions.
+abcdefghijkflsdfs
+fldnsdfnmsldf
+wlfnwenfwenfwnefwefmw
+fwlenflwnflwe
+THIS IS JUST A TEST FILE
+FIND
+REPLACE
+CUT
+COPY
+PASTE
+HELP
+SAVE
+QUIT
+
+
