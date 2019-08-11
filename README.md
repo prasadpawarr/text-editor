@@ -17,5 +17,5 @@ This editor has a buffer made of gap data structure, only reason of choosing the
 However it does not support a file which has no of lines more than the screen size.
 
 ## installation
-install contains the commands you need to run to install the required libraries
+install file in the repo contains the commands you need to run to install the required libraries
 
